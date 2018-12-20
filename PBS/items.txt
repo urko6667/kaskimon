@@ -263,7 +263,7 @@
 263,RARECANDY,Caramelo Raro,Caramelos Raros,2,4800,"Caramelo energético que sube a un Pokémon de nivel.",1,0,0,
 264,MASTERBALL,Master Ball,Master Balls,3,0,"La Poké Ball definitiva. Atrapa a cualquier Pokémon salvaje y no falla nunca.",0,2,3,
 265,ULTRABALL,Ultra Ball,Ultra Balls,3,1200,"Poké Ball de rendimiento superior. Tiene más índice de éxito que la Superball.",0,2,4,
-266,GREATBALL,Super Ball,Super Balls,3,600,"Poké Ball de alto rendimiento. Tiene un índice de éxito superior al de la Poké Ball.",0,2,3,
+266,GREATBALL,Super Ball,Super Balls,3,600,"Poké Ball de alto rendimiento. Tiene un índice de éxito superior al de la Poké Ball.",0,2,4,
 267,POKEBALL,Poké Ball,Poké Balls,3,200,"Dispositivo con diseño capsular que atrapa Pokémon salvajes. Se lanza como una bola contra el blanco.",0,2,4,
 268,SAFARIBALL,Safari Ball,Safari Balls,3,0,"Poké Ball con un diseño de camuflaje que se utiliza únicamente en el Gran Pantano.",0,2,4,
 269,SPORTBALL,Compet Ball,Compet Balls,3,0,"Poké Ball especial para el Concurso de Captura de Bichos.",0,2,4,

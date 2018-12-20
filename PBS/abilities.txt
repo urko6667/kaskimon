@@ -120,7 +120,7 @@
 120,RECKLESS,Audaz,"Sube el poder de los atq. que también dañan al usuario."
 121,MULTITYPE,Multitipo,"Cambia el tipo según la tabla."
 122,FLOWERGIFT,Don Floral,"Sube el atq. y def. esp. durante clima soleado"
-123,BADDREAMS,Pesadilla,"Reduce la pérdida de PS si su oponente está dormido."
+123,BADDREAMS,Mal Sueño,"Reduce los PS de cualquier rival que esté dormido."
 124,PICKPOCKET,Hurto,"Al minimo contacto con el rival, le quita el objeto."
 125,SHEERFORCE,Potencia Bruta,"Elimina los cambios de estado y sube el atq. ."
 126,CONTRARY,Respondón,"Hace que los cambios de estadísticas sean el efecto opuesto."
